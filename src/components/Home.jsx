@@ -7,7 +7,7 @@ const Home = () => {
             <div className="home-content">
                 <h1 className="home-title">ClariSante : Votre assistant médical numérique</h1>
                 <p className="home-info">
-                    Clarisanté simplifie la gestion de vos médicaments en scannant les codes-barres pour fournir les
+                    Clarisanté simplifie la gestion de vos médicaments en scannant les médicaments pour fournir les
                     instructions d'utilisation en texte et en voix. Avec des fonctionnalités supplémentaires telles que
                     la gestion des rappels de médicament et pleins d'autres, restez en contrôle de votre bien-être
                 </p>
