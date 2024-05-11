@@ -98,7 +98,7 @@ const Footer = () => {
         </ul>
       </div>
       <div className="credits">
-        <button className="request">Request Invite</button>
+        <button className="request">Download Our App Now !</button>
         <p>&#169; Easybank. All rights reserved.</p>
       </div>
     </footer>

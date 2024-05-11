@@ -1,5 +1,5 @@
 import "./home.css";
-import mockups from "../images/image-mockups.png";
+import mockups from "../images/clari-mockups.png";
 
 const Home = () => {
     return (
